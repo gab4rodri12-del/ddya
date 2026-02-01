@@ -18,9 +18,9 @@ ejercicio 2.
 
 ## Diseño 
 descripcion del problema:
-se recibe una entrada con nombres de estudiantes y sus respectivas notas
+print("se recibe una entrada con nombres de estudiantes y sus respectivas notas)
 se requiereconstruir una estructura interna la cual permista identificar cada nota que le corresponde a cada estudiante.
-deterermine cuales estudiantes estan aprobados considerando nota >=4 
+deterermine cuales estudiantes estan aprobados considerando nota >=3 
 muestre el listado de estudiantes 
 
 requerimientos 
