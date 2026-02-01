@@ -9,3 +9,7 @@ Este repositorio contiene la solución de la prueba técnica correspondiente a l
 
 ## Descripción
 El ejercicio fue desarrollado siguiendo las indicaciones vistas en clase y el diseño solicitado.
+
+## Diagrama de flujo
+
+![Diagrama de flujo](Diagrama%20de%20flujo.png)
