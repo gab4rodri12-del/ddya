@@ -12,4 +12,4 @@ El ejercicio fue desarrollado siguiendo las indicaciones vistas en clase y el di
 
 ## Diagrama de flujo
 
-![Diagrama de flujo](Diagrama%20de%20flujo.png)
+![_Diagrama de flujo](_Diagrama%20de%20flujo.png)
