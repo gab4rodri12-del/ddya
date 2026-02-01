@@ -12,9 +12,25 @@ La solución del ejercicio se encuentra en el archivo `ejercicio1.py`.
 
 
 ejercicio 2.
-##
+
 ## Diagrama de flujo
 ![Diagrama de flujo(1)](_Diagrama%20de%20flujo%20(1).png)
 
-## Código
+## Diseño 
+descripcion del problema:
+se recibe una entrada con nombres de estudiantes y sus respectivas notas
+se requiereconstruir una estructura interna la cual permista identificar cada nota que le corresponde a cada estudiante.
+deterermine cuales estudiantes estan aprobados considerando nota >=4 
+muestre el listado de estudiantes 
 
+requerimientos 
+R1: solicitar al usuario una cadena con estudiantes y notas
+R2: separar la cadena en una lista 
+R3. interprestacion de elementos
+R4:validacion 
+R5: si la nota es >=3 guardar el estudiante en una lista de aprobados
+
+ 
+
+## Código
+La solución del ejercicio se encuentra en el archivo ejercicio2..py.
