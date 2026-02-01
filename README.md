@@ -10,3 +10,10 @@ ejercicio 1.
 ## Código
 La solución del ejercicio se encuentra en el archivo `ejercicio1.py`.
 
+
+ejercicio 2.
+##
+## Diagrama de flujo
+
+## Código
+
