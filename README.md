@@ -18,17 +18,14 @@ ejercicio 2.
 
 ## Diseño 
 descripcion del problema:
-print("se recibe una entrada con nombres de estudiantes y sus respectivas notas)
-se requiereconstruir una estructura interna la cual permista identificar cada nota que le corresponde a cada estudiante.
-deterermine cuales estudiantes estan aprobados considerando nota >=3 
-muestre el listado de estudiantes 
+se recibe una entrada con nombres de estudiantes y sus respectivas notas el cual nos pide construir una estructura interna la cual permista identificar cada nota que le corresponde a cada estudiante Deterermine cuales estudiantes estan aprobados considerando nota >=3 y luego muestre el listado de estudiantes 
 
-requerimientos 
-R1: solicitar al usuario una cadena con estudiantes y notas
-R2: separar la cadena en una lista 
-R3. interprestacion de elementos
-R4:validacion 
-R5: si la nota es >=3 guardar el estudiante en una lista de aprobados
+## Requerimientos 
+R1: solicitar al usuario una cadena con estudiantes y notas,
+R2: separar la cadena en una lista,
+R3. interprestacion de elementos,
+R4:validacion,
+R5: si la nota es >=3 guardar el estudiante en una lista de aprobados.
 
  
 
