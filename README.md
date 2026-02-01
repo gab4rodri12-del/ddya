@@ -14,6 +14,7 @@ La solución del ejercicio se encuentra en el archivo `ejercicio1.py`.
 ejercicio 2.
 ##
 ## Diagrama de flujo
+![Diagrama de flujo(1)](_Diagrama%20de%20flujo(1).png)
 
 ## Código
 
